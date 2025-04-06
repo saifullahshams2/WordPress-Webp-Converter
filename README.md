@@ -21,5 +21,6 @@ Created by **WebSquadron**, this is **version 2.1** of the script.
 
 1. **Copy** the code from `wp-webp-converter.php` file.
 2. Upload it to your theme's `functions.php` (Not Recommended)
-3. Use a code snippet plugin (Recommended)
-4. You Will find Image Menu inside Media Menu.
+OR 
+4. Use a code snippet plugin (Recommended)
+5. You Will find Image Menu inside Media Menu.
