@@ -2,7 +2,7 @@
 
 This repository contains a single PHP file designed as a **code snippet** for WordPress to **convert images to WebP**, **optimize them**, **replace image URLs**, and optionally **delete the original file types**.
 
-Created by **WebSquadron**, this is **version 2.1** of the script.
+Created by [**WebSquadron**]([url](https://www.youtube.com/@websquadron/)), this is **version 2.1** of the script.
 
 ---
 
