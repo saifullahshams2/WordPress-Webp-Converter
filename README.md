@@ -48,8 +48,8 @@ Apply Manually for Existing Images:
 4. Fix URLs: Update Media URLs to use WebP.
 
 NOTE:
-a) Apply No Conversion: Deactivate Snippet before uploading images.
-b) Backups: Use a robust backup system before running any code/tool.
-c) Processing Speed: This depends on server, number of images.
-d) Log Delays: Updates appear in batches of 50.
-e) Option to Stop: Click Stop to stop the process.
+1. Apply No Conversion: Deactivate Snippet before uploading images.
+2. Backups: Use a robust backup system before running any code/tool.
+3. Processing Speed: This depends on server, number of images.
+4. Log Delays: Updates appear in batches of 50.
+5. Option to Stop: Click Stop to stop the process.
