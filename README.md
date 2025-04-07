@@ -4,6 +4,8 @@ This repository contains a single PHP file designed as a **code snippet** for Wo
 
 Created by [**WebSquadron**](https://www.youtube.com/@websquadron/), this is **version 2.1** of the script.
 
+**Added V3**
+
 ---
 
 ## 🚀 Features
